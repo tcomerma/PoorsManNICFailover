@@ -1,0 +1,8 @@
+﻿{
+ "NICMaster" : "NIC1",
+ "NICBackup" : "NIC2",
+ "NICConfig" : { "IP": "10.10.1.10",
+                 "Prefix": "24",
+                 "Gateway": "10.10.1.1"
+             }
+}
